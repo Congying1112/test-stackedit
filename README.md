@@ -6,3 +6,5 @@ eyJoaXN0b3J5IjpbLTE4ODM5NDY1MDRdfQ==
 -->
 
 added from github
+
+added from terminal
